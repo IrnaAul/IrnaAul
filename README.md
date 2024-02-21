@@ -10,7 +10,7 @@
 
 ### 🧕🏻About Me
 
-<p> I am an enthusiastic software engineering technology student who eager to learn and explore the possibilities that software engineering brings. </p>
+<p> I'm an eager software engineering student, excited to learn and discover more about this field. </p>
 
 ### 🌱What I'm Learning
 
