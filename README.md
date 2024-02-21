@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hey there! I'm Irna✨
 
-<!--
-**IrnaAul/IrnaAul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<a href="mailto:dev.irnaaull20@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/irnaaulia/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/IrnaAull"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_twitter.png"></a>&nbsp;&nbsp;
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧕🏻About Me
+
+<p> I am an enthusiastic software engineering technology student who eager to learn and explore the possibilities that software engineering brings. </p>
+
+### 🌱What I'm Learning
+
+Here are some things on my to-do list:
+
+- _Programming_ 💻
+- _Machine Learning_ 🤖
+- _Graphic Design_ 🎨
+- _Japanese Language_ 🎌
+
+---
+
+`Feel free to reach out to me on any of the social links above!🍃`
